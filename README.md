@@ -4,6 +4,7 @@
 
 - Using `themeType` change App colors and layout;
 - Using other params change App workflow and show/hidden components.
+- Anyone can change theme type.
 
 ```json
 {
@@ -26,7 +27,7 @@
 - Using `config` params change App workflow and show/hidden components;
 - Using `colors` params change App theme colors;
 - Using `units` params change App layout, like button size, font size, cell height, navigation height;
-- Any one can simply modify the basic style.
+- Anyone can simply modify the basic style.
 
 ```json
 {
