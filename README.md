@@ -4,7 +4,7 @@
 
 - Using `themeType` change App colors and layout;
 - Using other params change App workflow and show/hidden components.
-- Anyone can change theme type.
+- Anyone can easy change theme type.
 
 ```json
 {
