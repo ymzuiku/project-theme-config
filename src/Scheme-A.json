@@ -1,0 +1,13 @@
+{
+  "themeType": "HKAA",
+  "appName": "HKAA",
+  "displayName": "HKAA",
+  "isShowFloatButton": true,
+  "isShowTabbar": true,
+  "shippingMethod": ["dineIn", "pickUp", "delivery"],
+  "isCanUseTouristSign": true,
+  "pageTypes": {
+    "homePageType": "HKAAHomePage",
+    "orderListType": "HKAAOrderList"
+  }
+}

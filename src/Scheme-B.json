@@ -1,0 +1,76 @@
+{
+  "config": {
+    "appName": "HKAA",
+    "displayName": "HKAA",
+    "isShowFloatButton": true,
+    "isShowTabbar": true,
+    "shippingMethod": ["dineIn", "pickUp", "delivery"],
+    "isCanUseTouristSign": true,
+    "pageTypes": {
+      "homePageType": "HKAAHomePage",
+      "orderListType": "HKAAOrderList"
+    }
+  },
+  "colors": {
+    "theme": {
+      "fillPrimary": "#4F2B1A",
+      "fillSecondary": "#4F2B1A",
+      "fillPositive": "#4F2B1A",
+      "fillNegative ": "#4F2B1A",
+      "fillDark": "#4F2B1A",
+      "fillSecondaryDark": "#4F2B1A",
+      "fillLight": "#ffffff",
+      "fillSecondaryLight": "#ece4d7",
+      "textPrimary": "4F2B1A",
+      "textSecondary": "4F2B1A",
+      "textWeek": "4F2B1A",
+      "textHint": "4F2B1A",
+      "textDisabled": "4F2B1A"
+    },
+    "components": {
+      "activityColor": "#7E46AA",
+      "navigationBarBackground": "#7E46AA",
+      "navigationBarIconFill": "#7E46AA",
+      "navigationBarTilte": "#7E46AA",
+      "navigationBarTextButton": "#7E46AA",
+      "floatButtonBackground": "#7E46AA",
+      "floatButtonIcon": "#ffffff"
+    },
+    "pages": {
+      "storesList": {
+        "navigationBarBackground": "#7E46AA",
+        "headerTitle": "#7E46AA"
+      },
+      "sotreMenus": {
+        "navigationBarBackground": "#7E46AA",
+        "leftMenuTilte": "#7E46AA"
+      }
+    }
+  },
+  "units": {
+    "theme": {
+      "titleFontSize": 40,
+      "textFontSize": 24,
+      "infoFontSize": 16
+    },
+    "components": {
+      "navigationBarHeight": 44,
+      "tabBarHeight": 44,
+      "tabBarIconSize": 22,
+      "tabBarFontSize": 22,
+      "floatButtonSize": 58,
+      "floatButtonIconSize": 36
+    },
+    "pages": {
+      "storesList": {
+        "floatButtonSize": 58,
+        "storesCellHeight": 110,
+        "floatButtonIconSize": 36
+      },
+      "orderList": {
+        "floatButtonSize": 40,
+        "floatButtonIconSize": 20
+      }
+    }
+  }
+}
