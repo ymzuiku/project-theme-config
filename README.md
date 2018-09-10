@@ -21,7 +21,7 @@
 }
 ```
 
-## [Scheme B](./src/Scheme-A.json)
+## [Scheme B](./src/Scheme-B.json)
 
 - Using `config` params change App workflow and show/hidden components;
 - Using `colors` params change App theme colors;
