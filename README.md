@@ -107,7 +107,7 @@
 }
 ```
 
-## [Scheme C](./src/Scheme-A.json)
+## [Scheme C](./src/Scheme-C.json)
 
 - Using `config` params change App workflow and show/hidden components;
 - Using `styles` set all components and pages styles;
