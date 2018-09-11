@@ -1,6 +1,6 @@
 # Project theme config
 
-## [Scheme A (Recommend)](./src/Scheme-A.json)
+## [Theme Selection Config](./src/Scheme-A.json)
 
 - Using `themeType` change App colors and layout;
 - Using other params change App workflow and show/hidden components.
@@ -22,7 +22,7 @@
 }
 ```
 
-## [Scheme B](./src/Scheme-B.json)
+## [Theme Detail Config](./src/Scheme-B.json)
 
 - Using `config` params change App workflow and show/hidden components;
 - Using `colors` params change App theme colors;
@@ -108,7 +108,7 @@
 }
 ```
 
-## [Scheme C](./src/Scheme-C.json)
+## [Theme Detail Styles Config](./src/Scheme-C.json)
 
 - Using `config` params change App workflow and show/hidden components;
 - Using `styles` set all components and pages styles;
