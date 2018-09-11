@@ -108,7 +108,7 @@
 }
 ```
 
-## [Theme Detail Styles Config](./src/Scheme-C.json)
+## [Theme Deep Detail Config](./src/Scheme-C.json)
 
 - Using `config` params change App workflow and show/hidden components;
 - Using `styles` set all components and pages styles;
